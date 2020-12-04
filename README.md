@@ -20,6 +20,15 @@ it, simply add the following line to your Podfile:
 pod 'HelloWorldDemo'
 ```
 
+## Sample 
+### Swift 
+```ruby
+let message = HelloWorld().sayHello()
+```
+### Objective-c
+```ruby
+NSString* message = [[HelloWorld alloc] sayHello];
+```
 ## Author
 
 s-sambo@beniten.com, samboseth168@gmail.com
