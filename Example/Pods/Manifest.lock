@@ -1,5 +1,5 @@
 PODS:
-  - HelloWorldDemo (0.1.0)
+  - HelloWorldDemo (1.0.0)
 
 DEPENDENCIES:
   - HelloWorldDemo (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  HelloWorldDemo: 96f36872259af8e48332169b24bee58f64981640
+  HelloWorldDemo: 446674e7b22b8a4983e4b487b2bd78c74244c225
 
 PODFILE CHECKSUM: fddb3d5b3850390dac21e49c144c59dd368e240e
 

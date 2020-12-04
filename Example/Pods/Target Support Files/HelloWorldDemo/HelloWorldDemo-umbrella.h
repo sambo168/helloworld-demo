@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "HelloWorld.h"
 
 FOUNDATION_EXPORT double HelloWorldDemoVersionNumber;
 FOUNDATION_EXPORT const unsigned char HelloWorldDemoVersionString[];

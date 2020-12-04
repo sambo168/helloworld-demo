@@ -7,6 +7,7 @@
 //
 
 #import "SBViewController.h"
+#import <HelloWorldDemo/HelloWorld.h>
 
 @interface SBViewController ()
 
@@ -17,7 +18,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+	
+    NSLog(@"say: %@", [[HelloWorld alloc] sayHello]);
 }
 
 - (void)didReceiveMemoryWarning
